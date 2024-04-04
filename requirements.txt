@@ -1,0 +1,6 @@
+transformers==4.2.1
+argparse
+tqdm
+torch
+numpy
+pandas
